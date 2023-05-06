@@ -1,2 +1,2 @@
 # SentenceTransformers
-SentenceTransformers for recommendation
+SentenceTransformers for the Query Search Recommendation
